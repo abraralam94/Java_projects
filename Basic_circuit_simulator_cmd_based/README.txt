@@ -1,0 +1,1 @@
+# This project implements a command line based basic analog circuit simulation feature (SPICE). 
