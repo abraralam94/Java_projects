@@ -1,0 +1,1 @@
+## Please note that I have listed only relavant Java projects that can offer transferrable skills to software engineering, data engineering, machine learning, big data analysis, information retrieval fields. I have completed other Java project as part of COE528, which I considered not really all that relevant. Thus, those are not included here in this repo.
